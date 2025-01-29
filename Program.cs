@@ -18,6 +18,7 @@ int incorrectGuesses = 0;
 
 // Welcome the User
 Console.WriteLine("Welcome to our Hangman simulation! Good Luck");
+Console.WriteLine("This is a line of code");
 
 // Get the random word for the user to guess
 Console.Write("Generating a random word");
