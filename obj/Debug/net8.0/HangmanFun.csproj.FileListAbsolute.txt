@@ -1,0 +1,14 @@
+/Users/porter/RiderProjects/HangmanFun/bin/Debug/net8.0/HangmanFun
+/Users/porter/RiderProjects/HangmanFun/bin/Debug/net8.0/HangmanFun.deps.json
+/Users/porter/RiderProjects/HangmanFun/bin/Debug/net8.0/HangmanFun.runtimeconfig.json
+/Users/porter/RiderProjects/HangmanFun/bin/Debug/net8.0/HangmanFun.dll
+/Users/porter/RiderProjects/HangmanFun/bin/Debug/net8.0/HangmanFun.pdb
+/Users/porter/RiderProjects/HangmanFun/obj/Debug/net8.0/HangmanFun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/porter/RiderProjects/HangmanFun/obj/Debug/net8.0/HangmanFun.AssemblyInfoInputs.cache
+/Users/porter/RiderProjects/HangmanFun/obj/Debug/net8.0/HangmanFun.AssemblyInfo.cs
+/Users/porter/RiderProjects/HangmanFun/obj/Debug/net8.0/HangmanFun.csproj.CoreCompileInputs.cache
+/Users/porter/RiderProjects/HangmanFun/obj/Debug/net8.0/HangmanFun.dll
+/Users/porter/RiderProjects/HangmanFun/obj/Debug/net8.0/refint/HangmanFun.dll
+/Users/porter/RiderProjects/HangmanFun/obj/Debug/net8.0/HangmanFun.pdb
+/Users/porter/RiderProjects/HangmanFun/obj/Debug/net8.0/HangmanFun.genruntimeconfig.cache
+/Users/porter/RiderProjects/HangmanFun/obj/Debug/net8.0/ref/HangmanFun.dll
